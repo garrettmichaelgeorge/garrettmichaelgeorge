@@ -1,4 +1,4 @@
-## Pleased to meet you! My name is Garrett George. I'm a full-stack software developer.
+## <div align="center">Pleased to meet you! My name is Garrett George. I'm a full-stack software developer.</div>
 
 ## My Skill Set
 <table><tr><td valign="top" width="50%">
@@ -15,8 +15,6 @@
   </div>
 
   </td><td valign="top" width="50%">
-
-
 
   ### Backend
   <div align="center">
