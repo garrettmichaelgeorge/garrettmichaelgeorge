@@ -33,6 +33,3 @@
 <td valign="top" width="50%">
 
 </td></tr></table>
-
-<small>Hat tip to [@rishavanand](https://github.com/rishavanand), creator of
-[Github Profilinator], for the icons</small>
