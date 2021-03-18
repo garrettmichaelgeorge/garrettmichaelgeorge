@@ -2,6 +2,8 @@
 
 - Currently working on the [Timeless Jeweler App](https://github.com/garrettmichaelgeorge/timeless_jeweler_public), a commercial retail management app for jewelers
 
+- I specialize in Ruby and Ruby on Rails
+
 - Currently learning TypeScript
 
 - When I'm not programming, I compose music for the concert hall
