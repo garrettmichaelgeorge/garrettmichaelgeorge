@@ -1,5 +1,8 @@
 ### <div align="center">Pleased to meet you! My name is Garrett George. I'm a full-stack software developer.</div>
 
+<br/>
+<br/>
+
 - Currently working on the [Timeless Jeweler App](https://github.com/garrettmichaelgeorge/timeless_jeweler_public), a commercial retail management app for jewelers
 
 - I specialize in Ruby and Ruby on Rails
