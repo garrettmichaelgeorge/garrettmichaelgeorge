@@ -2,7 +2,7 @@
   <h2>Pleased to meet you!</h2>
   <p>My name is Garrett George. I am a full-stack software developer.</p>
 </div>
-<br/>
+
 <br/>
 
 - Currently working on the [Timeless Jeweler App](https://github.com/garrettmichaelgeorge/timeless_jeweler_public), a commercial retail management app for jewelers.
