@@ -5,9 +5,15 @@
 
 - Currently working on the [Timeless Jeweler App](https://github.com/garrettmichaelgeorge/timeless_jeweler_public), a commercial retail management app for jewelers
 
-- Currently learning TypeScript and Mocha
+- My specialty is Ruby and Ruby on Rails
 
-- When I'm not programming, I compose music for the concert hall
+- Currently learning TypeScript and C
+
+- I also love audio programming a la the Web Audio API
+
+- When I'm not programming, you can find me composing
+  [music](https://soundcloud.com/garrettmichaelgeorge) for the concert hall,
+  spending time with my wife, and playing tug with my dog, Pippin
 
 ## My Skill Set
 <table><tr><td valign="top" width="50%">
