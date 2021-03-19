@@ -3,7 +3,8 @@
   <p>My name is Garrett George. I am a full-stack software developer.</p>
 </div>
 
-<br/>
+<hr />
+<br />
 
 - Currently working on the [Timeless Jeweler App](https://github.com/garrettmichaelgeorge/timeless_jeweler_public), a commercial retail management app for jewelers.
 
@@ -16,6 +17,8 @@
 - When I'm not programming, you can find me composing
   [music](https://soundcloud.com/garrettmichaelgeorge) for the concert hall,
   spending time with my wife, and playing tug with my dog, Pippin.
+
+<hr />
 
 ## My Skill Set
 <table><tr><td valign="top" width="50%">
