@@ -8,7 +8,8 @@
 
 - Currently working on the [Timeless Jeweler App](https://github.com/garrettmichaelgeorge/timeless_jeweler_public), a commercial retail management app for jewelers.
 
-- My specialty is Ruby and Ruby on Rails.
+- My specialty is building web applications in Ruby and Ruby on Rails. I can
+    work across the full stack; my favorite kind of work is backend programming.
 
 - Currently learning TypeScript and C.
 
