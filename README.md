@@ -13,7 +13,8 @@
 
 - Currently learning TypeScript and C.
 
-- I also love audio programming a la the Web Audio API.
+- I also love audio programming in environments like MaxMSP and the Web Audio
+    API.
 
 - When I'm not programming, you can find me composing
   [music](https://soundcloud.com/garrettmichaelgeorge) for the concert hall,
