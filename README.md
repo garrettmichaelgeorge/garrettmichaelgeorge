@@ -1,19 +1,21 @@
-### <div align="center">Pleased to meet you! My name is Garrett George. I'm a full-stack software developer.</div>
-
+<div align="center">
+  <h2>Pleased to meet you!</h2>
+  <p>My name is Garrett George. I am a full-stack software developer.</p>
+</div>
 <br/>
 <br/>
 
-- Currently working on the [Timeless Jeweler App](https://github.com/garrettmichaelgeorge/timeless_jeweler_public), a commercial retail management app for jewelers
+- Currently working on the [Timeless Jeweler App](https://github.com/garrettmichaelgeorge/timeless_jeweler_public), a commercial retail management app for jewelers.
 
-- My specialty is Ruby and Ruby on Rails
+- My specialty is Ruby and Ruby on Rails.
 
-- Currently learning TypeScript and C
+- Currently learning TypeScript and C.
 
-- I also love audio programming a la the Web Audio API
+- I also love audio programming a la the Web Audio API.
 
 - When I'm not programming, you can find me composing
   [music](https://soundcloud.com/garrettmichaelgeorge) for the concert hall,
-  spending time with my wife, and playing tug with my dog, Pippin
+  spending time with my wife, and playing tug with my dog, Pippin.
 
 ## My Skill Set
 <table><tr><td valign="top" width="50%">
