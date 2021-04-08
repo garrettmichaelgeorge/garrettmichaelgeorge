@@ -6,12 +6,12 @@
 <hr />
 <br />
 
-- Currently working on the [Timeless Jeweler App](https://github.com/garrettmichaelgeorge/timeless_jeweler_public), a commercial retail management app for jewelers.
+- Currently working on the [Timeless Jeweler App](https://github.com/garrettmichaelgeorge/timeless_jeweler_public), a commercial retail management app for jewelers, and [PatchCable](https://github.com/garrettmichaelgeorge/patch_cable), an audiovisual programming environment for the web inspired by Max/MSP
 
 - My specialty is building web applications in Ruby and Ruby on Rails. I can
     work across the full stack; my favorite kind of work is backend programming.
 
-- Currently learning TypeScript and C.
+- Currently learning TypeScript and frontend performance best-practices.
 
 - I also love audio programming in environments like MaxMSP and the Web Audio
     API.
