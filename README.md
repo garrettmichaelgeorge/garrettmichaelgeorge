@@ -13,7 +13,7 @@
 
 - Currently learning TypeScript and frontend performance best-practices.
 
-- I also love audio programming in environments like MaxMSP and the Web Audio
+- I also love audio programming in environments like Max/MSP and the Web Audio
     API.
 
 - When I'm not programming, you can find me composing
