@@ -12,10 +12,6 @@
 
 - Languages include Ruby, JavaScript (+ TypeScript), and SQL.
 
-- My specialty is building web apps in Ruby and Ruby on Rails. I can
-    work across the full stack; my favorite area is backend programming:
-    data modeling, software architecture, design, automated testing, etc.
-
 - Currently learning functional programming with Elixir.
 
 - I also love audio programming in environments like Max/MSP and the Web Audio
