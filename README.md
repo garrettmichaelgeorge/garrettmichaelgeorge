@@ -6,19 +6,24 @@
 <hr />
 <br />
 
-- Currently working on the [Timeless Jeweler App](https://github.com/garrettmichaelgeorge/timeless_jeweler_public), a commercial retail management app for jewelers, and [PatchCable](https://github.com/garrettmichaelgeorge/patch_cable), an audiovisual programming environment for the web inspired by Max/MSP
+- Currently working at [TTI](https://www.ttigroup.com) as a backend Elixir programmer on the Torque Interactive team.
 
-- My specialty is building web applications in Ruby and Ruby on Rails. I can
-    work across the full stack; my favorite kind of work is backend programming.
+- On the side, working on the [Timeless Jeweler App](https://github.com/garrettmichaelgeorge/timeless_jeweler_public), a commercial retail management app for jewelers, and [PatchCable](https://github.com/garrettmichaelgeorge/patch_cable), an audiovisual programming environment for the web
 
-- Currently learning TypeScript and frontend performance best-practices.
+- Languages include Ruby, JavaScript (+ TypeScript), and SQL.
+
+- My specialty is building web apps in Ruby and Ruby on Rails. I can
+    work across the full stack; my favorite area is backend programming:
+    data modeling, software architecture, design, automated testing, etc.
+
+- Currently learning functional programming with Elixir.
 
 - I also love audio programming in environments like Max/MSP and the Web Audio
     API.
 
 - When I'm not programming, you can find me composing
   [music](https://soundcloud.com/garrettmichaelgeorge) for the concert hall,
-  spending time with my wife, and playing tug with my dog, Pippin.
+  spending time with my wife, hitting the disc golf course with friends, and playing tug with my dog, Pippin.
 
 <hr />
 
