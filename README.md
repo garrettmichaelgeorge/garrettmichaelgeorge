@@ -10,8 +10,6 @@
 
 - On the side, working on the [Timeless Jeweler App](https://github.com/garrettmichaelgeorge/timeless_jeweler_public), a commercial retail management app for jewelers, and [PatchCable](https://github.com/garrettmichaelgeorge/patch_cable), an audiovisual programming environment for the web
 
-- Languages include Ruby, JavaScript (+ TypeScript), and SQL.
-
 - Currently learning functional programming with Elixir.
 
 - I also love audio programming in environments like Max/MSP and the Web Audio
