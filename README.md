@@ -6,14 +6,13 @@
 <hr />
 <br />
 
-- Currently working at [TTI](https://www.ttigroup.com) as a backend Elixir programmer on the Torque Interactive team.
+- Currently building custom CMSs and HTTP APIs at [TTI](https://www.ttigroup.com) as a backend Elixir programmer on the Torque Interactive team.
 
 - On the side, working on the [Timeless Jeweler App](https://github.com/garrettmichaelgeorge/timeless_jeweler_public), a commercial retail management app for jewelers, and [PatchCable](https://github.com/garrettmichaelgeorge/patch_cable), an audiovisual programming environment for the web
 
-- Currently learning functional programming with Elixir.
+- Currently learning about automated CI servers, runtime analysis, and Phoenix LiveView
 
-- I also love audio programming in environments like Max/MSP and the Web Audio
-    API.
+- I value well-written, well-tested code and other developmental practices that stem from the XP/Agile movements
 
 - When I'm not programming, you can find me composing
   [music](https://soundcloud.com/garrettmichaelgeorge) for the concert hall,
