@@ -12,7 +12,7 @@
 
 - Currently learning about automated CI servers, runtime analysis, and Phoenix LiveView
 
-- I value well-written, well-tested code and other developmental practices that stem from the XP/Agile movements
+- I value well-written, well-tested code and teams that prioritize agile principles
 
 - When I'm not programming, you can find me composing
   [music](https://soundcloud.com/garrettmichaelgeorge) for the concert hall,
