@@ -8,11 +8,11 @@
 
 - Currently building custom CMSs and HTTP APIs at [TTI](https://www.ttigroup.com) as a backend Elixir programmer on the Torque Interactive team.
 
-- On the side, working on the [Timeless Jeweler App](https://github.com/garrettmichaelgeorge/timeless_jeweler_public), a commercial retail management app for jewelers, and [PatchCable](https://github.com/garrettmichaelgeorge/patch_cable), an audiovisual programming environment for the web
+- On the side, building [ExIntegrate](https://github.com/samrose/ex_integrate), an automated CI server written in Elixir
 
 - Currently learning about automated CI servers, runtime analysis, and Phoenix LiveView
 
-- I value well-written, well-tested code and teams that prioritize agile principles
+- I value well-written, well-tested code and teams that prioritize agile practices
 
 - When I'm not programming, you can find me composing
   [music](https://soundcloud.com/garrettmichaelgeorge) for the concert hall,
@@ -25,10 +25,9 @@
 ### Backend
 
 * Elixir
+* PostgreSQL
 * Ruby
 * Ruby on Rails
-* PostgreSQL
-* git
 
 ### Frontend
 
@@ -38,8 +37,9 @@
 * Bootstrap
 * CSS3
 * HTML5
-* StimulusReflex
+* StimulusReflex (Rails)
 
 ### Other
 
 * Test-Driven Development (TDD)
+* Git and git workflows
