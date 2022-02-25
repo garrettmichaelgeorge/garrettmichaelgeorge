@@ -6,9 +6,9 @@
 <hr />
 <br />
 
-- Currently building HTTP APIs and CMSs in Elixir at [Techtronics Industries (TTI)](https://www.ttigroup.com)
+- Building and maintaining HTTP APIs and custom CMSs in Elixir/Phoenix at [Techtronics Industries (TTI)](https://www.ttigroup.com)
 
-- On the side, building [ExIntegrate](https://github.com/samrose/ex_integrate), an CI server written in Elixir that leverages the concurrency and fault-tolerance of the BEAM
+- Also building [ExIntegrate](https://github.com/samrose/ex_integrate), an CI server written in Elixir that leverages the concurrency and fault-tolerance of the BEAM
 
 - Currently learning more about automated CI servers, runtime analysis, and Phoenix LiveView
 
