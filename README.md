@@ -6,11 +6,11 @@
 <hr />
 <br />
 
-- Building and maintaining HTTP APIs and custom CMSs in Elixir/Phoenix at [Techtronics Industries (TTI)](https://www.ttigroup.com)
+- Building Elixir backends for cross-functional IoT projects at [Very](https://verypossible.com).
 
 - Also building [ExIntegrate](https://github.com/samrose/ex_integrate), an CI server written in Elixir that leverages the concurrency and fault-tolerance of the BEAM
 
-- Currently learning more about automated CI servers, runtime analysis, and Phoenix LiveView
+- Currently learning more about AWS and MQTT
 
 - I value well-written & well-tested code and collaborative development practices
 
