@@ -6,7 +6,7 @@
 <hr />
 <br />
 
-- Building Elixir backends for cross-functional IoT projects at [Very](https://verypossible.com).
+- Previously building Elixir backends for cross-functional IoT projects at [Very](https://verypossible.com).
 
 - I value well-written & well-tested code, and collaborative development practices
 
